@@ -11,6 +11,8 @@ https://github.com/sorted01/Filametrix
 
 Updated CW2 Extruder body - From main ERCF project, adds ECAS fitting, filament sensor (Micro switch and 7mm ball bearing), and a heat set fitting to the bottom, as an adapter for Filametrix.
 
+Version 2 added - v1 did not have clearance for cutter arm under the bolt hole.  Currently in testing.
+
 As seen here:
 https://github.com/EtteGit/EnragedRabbitProject/tree/main/usermods/CW2_with_ECAS_and_optional_sensor
 
